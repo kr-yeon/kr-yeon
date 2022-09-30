@@ -7,6 +7,7 @@
 <h4 align=center>
   👏used a lot👏
 </div>
+
 <div align=center>
   <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
@@ -22,6 +23,7 @@
 <h4 align=center>
   👏used more than once👏
 </div>
+
 <div align=center>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
