@@ -6,3 +6,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kr-yeon&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+![](https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=white)
