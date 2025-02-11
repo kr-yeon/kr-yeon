@@ -1,6 +1,7 @@
-<h4 align=center> </div>
+<h4 align=center></div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkr-yeon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ![](https://github.com/kr-yeon/kr-yeon/blob/main/profile-summary-card-output/dracula/3-stats.svg)
 ![](https://github.com/kr-yeon/kr-yeon/blob/main/profile-summary-card-output/dracula/1-repos-per-language.svg)
 ![](https://github.com/kr-yeon/kr-yeon/blob/main/profile-summary-card-output/dracula/0-profile-details.svg)
