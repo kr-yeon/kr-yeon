@@ -1,26 +1,13 @@
 <h4 align=center> </div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkr-yeon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<h4 align=center>
-  👏My👏
-</div>
-
 ![](https://github.com/kr-yeon/kr-yeon/blob/main/profile-summary-card-output/dracula/3-stats.svg)
 ![](https://github.com/kr-yeon/kr-yeon/blob/main/profile-summary-card-output/dracula/1-repos-per-language.svg)
 ![](https://github.com/kr-yeon/kr-yeon/blob/main/profile-summary-card-output/dracula/0-profile-details.svg)
-<h4 align=center>
-  👏github stats👏
-</div>
-
-[![kr-yeon's github stats](https://github-readme-stats.vercel.app/api?username=kr-yeon&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<h4 align=center>
-  👏Top Langs👏
-</div>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kr-yeon&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h4 align=center>
-  👏used a lot👏
+  used a lot
 </div>
 
 <div align="center">
@@ -36,7 +23,7 @@
 
 
 <h4 align=center>
-  👏used more than once👏
+  used more than once
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
