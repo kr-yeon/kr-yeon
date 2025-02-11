@@ -5,6 +5,7 @@
 ![](https://github.com/kr-yeon/kr-yeon/blob/main/profile-summary-card-output/dracula/3-stats.svg)
 ![](https://github.com/kr-yeon/kr-yeon/blob/main/profile-summary-card-output/dracula/1-repos-per-language.svg)
 ![](https://github.com/kr-yeon/kr-yeon/blob/main/profile-summary-card-output/dracula/0-profile-details.svg)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kr-yeon&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h4 align=center>
