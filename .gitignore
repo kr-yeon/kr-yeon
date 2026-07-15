@@ -1,0 +1,15 @@
+# macOS Finder metadata
+.DS_Store
+
+# JetBrains project files are local editor state.
+.idea/
+*.iml
+
+# Local Codex and OMX runtime state.
+.omx/
+_workspace/
+
+# Editor backup files
+*.swp
+*.swo
+*~
